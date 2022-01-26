@@ -1,5 +1,6 @@
-numpy=1.19.1
-matplotlib=3.3.2
-scipy=1.5.2
-gpy=1.9.9
-gpyopt=1.2.6
+numpy
+matplotlib
+scipy
+gpy
+gpyopt
+jupyter
