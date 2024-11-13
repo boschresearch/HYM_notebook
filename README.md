@@ -28,7 +28,7 @@ If you have problems, importing the packages in Jupyter, add your Conda environm
 Open Jupyter, go to Kernel > Change Kernel and select "HYM notebook".
 
 # Dependencies
-Note that the package is building on [GpyOpt](https://github.com/SheffieldML/GPyOpt) which is no longer maintained.
+Note that the notebook is building on [GpyOpt](https://github.com/SheffieldML/GPyOpt) which is no longer maintained.
 
 # License
 Benchmarks is open-sourced under the MIT license. See the
