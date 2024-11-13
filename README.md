@@ -10,7 +10,7 @@ purpose. It will neither be maintained nor monitored in any way.
 # Installation Guidelines
 First create a [conda](https://anaconda.org/anaconda/conda) environment
 
-    conda create -n HYM_notebook python=3.8
+    conda create -n HYM_notebook python=3.11
 
 Activate the environment
 
