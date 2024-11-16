@@ -3,6 +3,8 @@ Hybrid Modeling is a modeling technique in which a physics-based model is combin
 By combining the best of both worlds, we trade off the benefit of prior knowledge when training data is scarce with the flexibility of a data-driven approaches when training data is abundant. 
 In this notebook we demonstrate the power of hybrid modeling by modeling data, which roughly follows the amplitude of a non-linearly damped oscillator with missing data.
 
+The paper [Hybrid Modeling Design Patterns (Maja Rudolph, Stefan Kurz, Barbara Rakitsch)](https://link.springer.com/article/10.1186/s13362-024-00141-0) provides additional context and background to this notebook, as well as a broader perspective on the topic.
+
 # Purpose of the Project
 This software is a tutorial, solely developed for educational
 purpose. It will neither be maintained nor monitored in any way.
